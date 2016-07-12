@@ -1,0 +1,263 @@
+{"buildings":
+    [
+        {"building":6, "floors":
+            [
+                { "floor":4, "xMax":18, "yMax":16, "rooms":
+                    [
+                        {"roomNumber":401, "quadrant":"Red", "blocks":
+                            [
+                                {"x": 5, "y":8}
+                            ]
+                        }
+                    ]
+                },
+                { "floor":3, "xMax":18, "yMax":16, "rooms":
+                    [
+                        {"roomNumber":301, "quadrant":"Red", "blocks":
+                            [
+                                {"x": 5, "y":8}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {"building":3, "floors":
+            [
+                { "floor":4, "xMax":18, "yMax":16, "rooms":
+                    [
+                        {"roomNumber":401, "quadrant":"Red", "blocks":
+                            [
+                                {"x": 5, "y":8}
+                            ]
+                        }
+                    ]
+                },
+                { "floor":3, "xMax":18, "yMax":16, "rooms":
+                    [
+                        {"roomNumber":301, "quadrant":"Red", "blocks":
+                            [
+                                {"x": 5, "y":8}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {"building":5, "floors":
+            [
+                { "floor":4, "xMax":18, "yMax":16, "rooms":
+                    [
+                        {"roomNumber":401, "quadrant":"Red", "blocks":
+                            [
+                                {"x": 5, "y":8}
+                            ]
+                        }
+                    ]
+                },
+                { "floor":5, "xMax":18, "yMax":16, "rooms":
+                    [
+                        {"roomNumber":501, "quadrant":"Red", "blocks":
+                            [
+                                {"x": 5, "y":8}
+                            ]
+                        },
+                        {"roomNumber":502, "quadrant":"Red", "blocks":
+                            [
+                                {"x": 5, "y":7},
+                                {"x": 5, "y":6}
+                            ]
+                        },
+                        {"roomNumber":503, "quadrant":"Red", "blocks":
+                            [
+                                {"x": 7, "y":4}
+                            ]
+                        },
+                        {"roomNumber":504, "quadrant":"Red", "blocks":
+                            [
+                                {"x": 8, "y":4}
+                            ]
+                        },
+                        {"roomNumber":505, "quadrant":"Blue", "blocks":
+                            [
+                                {"x": 11, "y":4},
+                                {"x": 12, "y":4}
+                            ]
+                        },
+                        {"roomNumber":506, "quadrant":"Blue", "blocks":
+                            [
+                                {"x": 13, "y":4}
+                            ]
+                        },
+                        {"roomNumber":507, "quadrant":"Blue", "blocks":
+                            [
+                                {"x": 15, "y":5}
+                            ]
+                        },
+                        {"roomNumber":508, "quadrant":"Blue", "blocks":
+                            [
+                                {"x": 15, "y":7},
+                                {"x": 15, "y":6}
+                            ]
+                        },
+                        {"roomNumber":509, "quadrant":"Blue", "blocks":
+                            [
+                                {"x": 15, "y":8}
+                            ]
+                        },
+                        {"roomNumber":510, "quadrant":"Green", "blocks":
+                            [
+                                {"x": 15, "y":12},
+                                {"x": 15, "y":11}
+                            ]
+                        },
+                        {"roomNumber":511, "quadrant":"Yellow", "blocks":
+                            [
+                                {"x": 5, "y":13}
+                            ]
+                        },
+                        {"roomNumber":512, "quadrant":"Yellow", "blocks":
+                            [
+                                {"x": 5, "y":11},
+                                {"x": 5, "y":12}
+                            ]
+                        },
+                        {"roomNumber":513, "quadrant":"Yellow", "blocks":
+                            [
+                                {"x": 5, "y":10}
+                            ]
+                        },
+                        {"roomNumber":514, "quadrant":"Yellow", "blocks":
+                            [
+                                {"x": 4, "y":10}
+                            ]
+                        },
+                        {"roomNumber":515, "quadrant":"Yellow", "blocks":
+                            [
+                                {"x": 2, "y":9}
+                            ]
+                        },
+                        {"roomNumber":516, "quadrant":"Yellow", "blocks":
+                            [
+                                {"x": 1, "y":9}
+                            ]
+                        },
+                        {"roomNumber":517, "quadrant":"Red", "blocks":
+                            [
+                                {"x": 1, "y":8}
+                            ]
+                        },
+                        {"roomNumber":518, "quadrant":"Red", "blocks":
+                            [
+                                {"x": 2, "y":8}
+                            ]
+                        },
+                        {"roomNumber":519, "quadrant":"Red", "blocks":
+                            [
+                                {"x": 4, "y":7},
+                                {"x": 4, "y":6},
+                                {"x": 4, "y":5}
+                            ]
+                        },
+                        {"roomNumber":521, "quadrant":"Red", "blocks":
+                            [
+                                {"x": 6, "y":3},
+                                {"x": 7, "y":3}
+                            ]
+                        },
+                        {"roomNumber":522, "quadrant":"Red", "blocks":
+                            [
+                                {"x": 9, "y":3}
+                            ]
+                        },
+                        {"roomNumber":523, "quadrant":"Red", "blocks":
+                            [
+                                {"x": 9, "y":3}
+                            ]
+                        },
+                        {"roomNumber":524, "quadrant":"Red", "blocks":
+                            [
+                                {"x": 9, "y":1}
+                            ]
+                        },
+                        {"roomNumber":525, "quadrant":"Blue", "blocks":
+                            [
+                                {"x": 10, "y":1}
+                            ]
+                        },
+                        {"roomNumber":526, "quadrant":"Blue", "blocks":
+                            [
+                                {"x": 11, "y":3},
+                                {"x": 12, "y":3}
+                            ]
+                        },
+                        {"roomNumber":527, "quadrant":"Blue", "blocks":
+                            [
+                                {"x": 13, "y":3}
+                            ]
+                        },
+                        {"roomNumber":528, "quadrant":"Blue", "blocks":
+                            [
+                                {"x": 14, "y":3}
+                            ]
+                        },
+                        {"roomNumber":529, "quadrant":"Blue", "blocks":
+                            [
+                                {"x": 15, "y":3}
+                            ]
+                        },
+                        {"roomNumber":530, "quadrant":"Blue", "blocks":
+                            [
+                                {"x": 17, "y":8}
+                            ]
+                        },
+                        {"roomNumber":531, "quadrant":"Green", "blocks":
+                            [
+                                {"x": 16, "y":13}
+                            ]
+                        },
+                        {"roomNumber":532, "quadrant":"Green", "blocks":
+                            [
+                                {"x": 16, "y":14},
+                                {"x": 15, "y":14}
+                            ]
+                        },
+                        {"roomNumber":533, "quadrant":"Green", "blocks":
+                            [
+                                {"x": 12, "y":14}
+                            ]
+                        },
+                        {"roomNumber":534, "quadrant":"Green", "blocks":
+                            [
+                                {"x": 11, "y":14}
+                            ]
+                        },
+                        {"roomNumber":535, "quadrant":"Green", "blocks":
+                            [
+                                {"x": 10, "y":16}
+                            ]
+                        },
+                        {"roomNumber":536, "quadrant":"Yellow", "blocks":
+                            [
+                                {"x": 9, "y":16}
+                            ]
+                        },
+                        {"roomNumber":537, "quadrant":"Yellow", "blocks":
+                            [
+                                {"x": 9, "y":14}
+                            ]
+                        },
+                        {"roomNumber":538, "quadrant":"Yellow", "blocks":
+                            [
+                                {"x": 7, "y":14},
+                                {"x": 6, "y":14},
+                                {"x": 5, "y":14},
+                                {"x": 4, "y":14}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

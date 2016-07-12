@@ -1,0 +1,26 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to Room Finder
+ 
+  
+  div(id="divBuilding")
+    label(for="selBuilding") Building:
+    select(id="selBuilding", name="selBuilding" onchange="buildingChange(this, " + JSON.stringify(data) + ")")
+      each building in data.buildings
+        option #{building.building} 
+    br
+  div(id="divFloor")
+    label(for="selFloor") Floor:
+    select(id="selFloor", name="selFloor" onchange='floorChange(this)' )
+    br
+  div(id="divRoom")
+    label(for="selRoom") Room:
+    select(id="selRoom", name="selRoom", onchange='roomChange(this)')
+  br
+  div
+    image(id="img1" onload='imageLoaded(this)')
+  div
+    canvas(id="canvas1" width="250" height="250")    
+  
